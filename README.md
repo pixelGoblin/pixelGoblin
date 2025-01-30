@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm Vladislav 👋
+On a path to become a frontend developer.
+I'm currently learning Vue.js.
 
+![image](https://www.codewars.com/users/pixelGoblin/badges/large)
+<!--
+![Codewars](https://github.r2v.ch/codewars?user=pixelGoblin&stroke=%2300b3d1)
+-->
 <!--
 **pixelGoblin/pixelGoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
